@@ -1,1 +1,2 @@
-Essa coisa
+Essa é a nossa segunda mensagem escrita com o módulo fs!
+Isto é uma atividade de NODE
